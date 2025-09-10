@@ -20,7 +20,7 @@ Aqui você encontrará exemplos, exercícios e pequenos projetos desenvolvidos d
 ## 🛠️ Tecnologias utilizadas  
 
 - ☕ **Java 17+**  
-- 📝 **IntelliJ IDEA /**  
+- 📝 **IntelliJ IDEA **  
 - 🖥️ **Git & GitHub**  
 
 ---

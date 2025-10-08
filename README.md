@@ -30,8 +30,6 @@ Aqui você encontrará exemplos, exercícios e pequenos projetos desenvolvidos d
 ```bash
 📦 orientacao-objetos-java
  ┣ 📂 src
- ┃ ┣ 📂 exemplos     # Exemplos práticos de cada conceito
  ┃ ┣ 📂 exercicios   # Exercícios resolvidos para fixação
- ┃ ┗ 📂 projetos     # Pequenos projetos aplicando POO
  ┣ 📜 README.md
  ┗ 📜 .gitignore

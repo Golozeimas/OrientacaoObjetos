@@ -3,7 +3,7 @@ package Upcasting_E_Downcasting.Veiculo;
 import java.util.ArrayList;
 
 public class Main {
-    static void main() {
+   public static void main(String[] args) {
         ArrayList<Veiculo> veiculos = new ArrayList<>();
         Veiculo carro = new Carro();
 

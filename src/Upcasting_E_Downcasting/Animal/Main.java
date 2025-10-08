@@ -1,7 +1,7 @@
 package Upcasting_E_Downcasting.Animal;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         Animal leao = new Leao(); // upcasting
 
         leao.emitirSom();

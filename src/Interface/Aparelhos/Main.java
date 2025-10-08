@@ -1,7 +1,7 @@
 package Interface.Aparelhos;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         ControleRemoto tv = new Tv();
         ControleRemoto smartphone = new Smartphone();
 

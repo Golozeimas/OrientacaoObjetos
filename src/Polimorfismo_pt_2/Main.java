@@ -1,7 +1,7 @@
 package Polimorfismo_pt_2;
 
 public class Main {
-    static void main() {
+   public static void main(String[] args) {
         Animal leao = new Leao();
 
         leao.emitirSom();

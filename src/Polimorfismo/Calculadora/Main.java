@@ -1,7 +1,7 @@
 package Polimorfismo.Calculadora;
 
 public class Main {
-    static void main() {
+   public static void main(String[] args) {
     Calculadora soma = new Calculadora();
 
     soma.soma(23,32);

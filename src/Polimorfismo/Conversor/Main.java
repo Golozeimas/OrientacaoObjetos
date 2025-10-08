@@ -1,7 +1,7 @@
 package Polimorfismo.Conversor;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
 
         Conversor conversor = new Conversor();
 

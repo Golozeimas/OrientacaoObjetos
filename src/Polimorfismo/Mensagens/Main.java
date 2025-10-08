@@ -1,7 +1,7 @@
 package Polimorfismo.Mensagens;
 
 public class Main {
-    static void main() {
+   public static void main(String[] args) {
         Mensagens mensagens = new Mensagens();
 
         mensagens.texto("Como colocar uma makita na construção");

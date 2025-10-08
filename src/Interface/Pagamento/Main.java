@@ -1,7 +1,7 @@
 package Interface.Pagamento;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         Pagamento cartao = new CartaoCredito();
         Pagamento boleto = new Boleto();
 

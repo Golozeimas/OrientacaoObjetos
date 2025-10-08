@@ -1,7 +1,7 @@
 package Interface.Jogo_RPG;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         Personagem mago = new Mago();
         Personagem guerreiro = new Guerreiro(); // chama com a interface e os métodos de cada classe juntos
 

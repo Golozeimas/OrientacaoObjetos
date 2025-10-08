@@ -1,7 +1,7 @@
 package Upcasting_E_Downcasting.Rpg;
 
  class Main {
-     static void main() {
+    public static void main(String[] args) {
          Personagem mago = new Mago();
          Personagem guerreiro = new Guerreiro();
 

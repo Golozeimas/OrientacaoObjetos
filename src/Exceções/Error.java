@@ -1,9 +1,8 @@
 package Exceções;
 
 import java.util.ArrayList;
-import java.util.List;
 
-public class Erro {
+public class Error {
     public static void main(String[] args) {
         ArrayList<int[]> List = new ArrayList<>() ;
 

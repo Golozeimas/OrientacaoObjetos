@@ -2,10 +2,10 @@ package Object;
 
 import java.util.ArrayList;
 
-public class Object {
+public class ObjectEmJava {
     public static void main(String[] args) {
         ArrayList<String> a = new ArrayList<>();
-        ArrayList <java.lang.Object> a1 = new ArrayList<>(); // tipo object
+        ArrayList <Object> a1 = new ArrayList<>(); // tipo object
         int[] b = new int[2];
         b[0] = 12;
         b[1] = 14;
@@ -20,7 +20,7 @@ public class Object {
         a1.add(b[0]);
         a1.add(b[1]);
 
-        for (java.lang.Object a2 : a1){
+        for (Object a2 : a1){
             System.out.println(a2);
         }
 

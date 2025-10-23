@@ -8,7 +8,7 @@ public class CheckedException {
         try{
             FileReader fileReader = new FileReader("arquvio.txt");
         }catch (FileNotFoundException e){
-            System.out.println("Não achamos o seu arquivo!!!");
+            System.out.println("Não achamos o seu arquivo!!!" + e.getMessage());
         }
     }
 }
